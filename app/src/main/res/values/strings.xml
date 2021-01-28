@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">hwConstraintLayout</string>
+    <string name="_3g_p">3G P</string>
+    <string name="_3g_m">3G M</string>
+    <string name="g_g_p">G G P</string>
+    <string name="g_g_m">G G M</string>
+    <string name="grandpa">Grandpa</string>
+    <string name="grandma">Grandma</string>
+    <string name="dad">Dad</string>
+    <string name="mom">Mom</string>
+    <string name="me">Me</string>
+</resources>
